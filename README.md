@@ -1,2 +1,2 @@
 # hello-world
-yeiiii.. week 5 already
+this is the workshop 1
