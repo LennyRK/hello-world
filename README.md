@@ -1,5 +1,5 @@
 # hello-world
-line two
+this is first tutorial
 line three
 line four
 line five
